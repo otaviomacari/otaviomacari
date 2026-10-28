@@ -1,7 +1,7 @@
 ## Olá, sou Otávio Macari 👋
 
 - 🔭 Atualmente estou trabalhando na área de Supervisão de Conservação da empresa DME - Poços de Caldas
-- 🌱 Estou aprendendo: Python, Assembly 
+- 🌱 Estou aprendendo: Python, Assembly, Ruby on Rails
 - 📫 Contate-me por: otaviocarvalhomacari@gmail.com
 
 ##
